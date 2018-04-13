@@ -40,7 +40,6 @@ ENV RBENV_VERSION 2.5.1
 RUN eval "$(rbenv init -)"; rbenv install $RBENV_VERSION \
 &&  eval "$(rbenv init -)"; rbenv global $RBENV_VERSION \
 &&  eval "$(rbenv init -)"; gem update --system \
-&&  eval "$(rbenv init -)"; gem install bundler -f \
 &&  eval "$(rbenv init -)"; gem install rbczmq iruby -f \
 &&  eval "$(rbenv init -)"; gem install rbplotly nyaplot daru daru-plotly spreadsheet mechanize \
 &&  eval "$(rbenv init -)"; gem install pry pycall numpy pandas -f \
