@@ -7,7 +7,7 @@
 * [mrkn/numpy.rb](https://github.com/mrkn/numpy.rb)
 * [mrkn/pandas.rb](https://github.com/mrkn/pandas.rb/)]
 * [nyaplot](https://github.com/domitry/nyaplot)
-* [rbplotly](https://rubygems.org/gems/rbplotly/versions/0.1.2)]
+* [rbplotly](https://rubygems.org/gems/rbplotly/versions/0.1.2)
 * [SciRuby/daru](https://github.com/SciRuby/daru)
 * [daru-plotly](https://github.com/genya0407/daru-plotly)
 * [py_d3](https://github.com/ResidentMario/py_d3)
@@ -22,7 +22,7 @@ docker run --rm -it -v $(pwd):/documents -p 8888:8888 htakeuchi/docker-tensorflo
 
 ## Sample
 
-* [IRuby(nyaplot/rbplotly/daru/daru-plotly/pandas)](http://nbviewer.jupyter.org/gist/htakeuchi/8b1ce2b37919352b8b94ceca13b35729/IRuby-sample.ipynb)
+* [IRuby nyaplot/rbplotly/daru/daru-plotly/pandas](http://nbviewer.jupyter.org/gist/htakeuchi/8b1ce2b37919352b8b94ceca13b35729/IRuby-sample.ipynb)
 
 #### References
 
