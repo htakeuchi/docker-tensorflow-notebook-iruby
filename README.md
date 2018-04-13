@@ -5,7 +5,7 @@
 * IRuby Notebook environment (Ruby 2.5.1)
 * [PyCall](https://github.com/mrkn/pycall.rb)
 * [mrkn/numpy.rb](https://github.com/mrkn/numpy.rb)
-* [mrkn/pandas.rb](https://github.com/mrkn/pandas.rb/)]
+* [mrkn/pandas.rb](https://github.com/mrkn/pandas.rb/)
 * [nyaplot](https://github.com/domitry/nyaplot)
 * [rbplotly](https://rubygems.org/gems/rbplotly/versions/0.1.2)
 * [SciRuby/daru](https://github.com/SciRuby/daru)
